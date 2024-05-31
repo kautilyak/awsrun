@@ -315,7 +315,7 @@ includes the following:
 
 ### v3.0.0
 
-- **BREAKING CHANGE**: Installation via `pip install awsurn` no longer installs
+- **BREAKING CHANGE**: Installation via `pip install awsrun` no longer installs
   all of the dependencies for `awsrun`, `azurerun`, and the bundled commands.
   Instead, users must now specify which optional dependendencies to install.
   See Installation section above for details. Note: while the major version
